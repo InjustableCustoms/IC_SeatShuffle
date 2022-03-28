@@ -1,5 +1,5 @@
--- Toggle Ragdoll via key (U) written by JAF
--- Made for www.lacountyrp.com
+-- Toggle Ragdoll via key (U) written by Injustable Customs
+-- Made for sunsetrp
 -- Version 1.0.1
 
 -- Add a client script 
