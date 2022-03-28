@@ -1,5 +1,5 @@
 --[[ SEAT SHUFFLE ]]--
---[[ BY JAF ]]--
+--[[ BY INJUSTABLE CUSTOMS ]]--
 
 local disableShuffle = true
 function disableSeatShuffle(flag)
